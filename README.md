@@ -1,4 +1,4 @@
-### Oiee eu sou o Pedro, dev e criador de conteúdo Front-end 👋
+### Oiee eu sou o Pedro 👋
 
 
 - 🔭 Atualmente tenho buscado minha formação como dev Front-end
