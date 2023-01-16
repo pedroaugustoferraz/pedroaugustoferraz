@@ -28,6 +28,6 @@
   <a href = "mailto:ferrazfarias2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-ferraz-b21454201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--Ver vídeo da Rafa Ballerini de como colocar cobrinha dos commits-->
+![Snake animation](https://github.com/pedroaugustoferraz/pedroaugustoferraz/blob/outpu/github-contribution-grid-snake.svg)
  
 </div>
